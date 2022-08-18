@@ -1,5 +1,5 @@
 {
-    "name": "dicr/yii2-http",
+    "name": "kiyonxxx/yii2-http",
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "homepage": "https://gitlab.com/dicr/yii2-http",
@@ -23,7 +23,7 @@
     "prefer-stable": true,
 
     "require": {
-        "php": "~7.4 || ~8.0.1",
+        "php": ">=7.4",
         "ext-zlib": "*",
         "ext-dom": "*",
         "ext-libxml": "*",
